@@ -185,7 +185,7 @@ main {
 
 .top-news__item {
   border-bottom: 1px solid #E0E0E0;
-  padding: 1em 0;
+  padding: 1.5em 0;
   line-height: 19.2px;
 }
 
@@ -215,8 +215,7 @@ main {
  */
 
 .scores {
-  width: 480px;
-  min-width: 100%;
+  width: 100%;
   float: left;
   padding-top: 1em;
 }
@@ -228,7 +227,7 @@ main {
 
 .scores__table th,
 .scores__table td {
-  padding: 1em; 
+  padding: 1.5em; 
 }
 
 .scores__table th {
@@ -266,8 +265,7 @@ main {
 
 .weather {
   float: right;
-  width: 320px;
-  min-width: 100%;
+  width: 100%;
   padding: 1em;
 }
 
